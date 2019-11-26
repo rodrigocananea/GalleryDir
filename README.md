@@ -10,5 +10,5 @@ Está é uma aplicação basica de galeria de imagens, é listado uma pasta que 
 
  Após isso é removido os 3 primeiros caracteres e pego o nome do arquivo sem a extensão dele.
 
-Quero que este código seja util para quem o procure, pois é somente uma parte do conhecimento obtido no curso da plataforma da Udemy.
+Quero que este código seja util para quem o procure, pois é somente um pequeno exemplo do que é possível implementar com o php
               
